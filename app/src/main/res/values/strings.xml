@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jarvis AI</string>
+    <string name="notification_listener_label">Jarvis Notification Reader</string>
+    <string name="nav_hub">Command</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_vault">Vault</string>
+    <string name="firebase_notice_title">Sample AI Mode Active</string>
+    <string name="firebase_notice_body">Live Gemini reasoning requires Firebase AI Logic. Local device tools, voice, and automation remain active.</string>
+    <string name="command_input_hint">Ask Jarvis in English, Hindi, or Hinglish…</string>
+    <string name="voice_listening">Listening…</string>
+    <string name="voice_tap_to_speak">Tap mic to speak</string>
+    <string name="confirm_action_title">Confirmation Required</string>
+    <string name="confirm_button">Confirm &amp; Execute</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="memory_consent_title">Remember Preferences With Consent</string>
+    <string name="memory_consent_desc">Allow Jarvis to store preferences and personal context locally on this device. You can review or delete items anytime.</string>
+    <string name="clear_memory_button">Clear All Memory</string>
+</resources>
